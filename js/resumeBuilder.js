@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //var name="Sudhakar Kakileti";
 //var role="Java Developer";
 
@@ -64,3 +65,7 @@ $("#header").append(HTMLworkDates.replace("%data%",work.experience));
 } */
 
 
+=======
+// start writing the below objects
+//work, education,bio,
+>>>>>>> origin/master
